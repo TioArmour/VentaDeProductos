@@ -1,0 +1,15 @@
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\bin\Debug\Frontend.exe.config
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\bin\Debug\Frontend.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\bin\Debug\Frontend.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\obj\Debug\Frontend.csprojAssemblyReference.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\obj\Debug\Frontend.Properties.Resources.resources
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\obj\Debug\Frontend.csproj.GenerateResource.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\obj\Debug\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\obj\Debug\Frontend.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\obj\Debug\Frontend.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\obj\Debug\Frontend.ProcesoVenta.resources
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\obj\Debug\Frontend.Productos.resources
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\bin\Debug\BackEnd.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\bin\Debug\BackEnd.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\obj\Debug\FrontEnd.csproj.CopyComplete
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\VentaDeProductos\Frontend\obj\Debug\Frontend.CantidadProductos.resources

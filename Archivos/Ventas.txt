@@ -1,0 +1,25 @@
+Fecha: miércoles, 5 de mayo de 2021
+Productos              Cantidad         Precio
+Lapiz Stabilo Swano              1000         4000
+Borrador Artesco              1000         3000
+Hojas para Traper              250         5000
+Cuaderno Anillado Carta              100         1500
+Cuaderno Empastado Carta              100         1800
+Lapicero Azul Faber Castell              500         1000
+Tipo de Cliente: Empleado
+Precio Total: 16300
+Total a Pagar: 14670
+Fecha: miércoles, 5 de mayo de 2021
+Productos              Cantidad         Precio
+Caja de Grapas              120         8040
+Borrador Artesco              100         300
+Lapicero Azul Faber Castell              200         400
+Hojas para Traper              250         5000
+Cuaderno Anillado Carta              100         1500
+Cuaderno Empastado Carta              100         1800
+Colores SuperSoft 32 Unidades              10         800
+Lapiz Stabilo Swano              100         400
+Tipo de Cliente: Mayorista
+Precio Total: 18240
+Total a Pagar: 12768
+
